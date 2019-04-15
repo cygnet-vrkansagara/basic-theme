@@ -1,0 +1,79 @@
+{
+  "draw": 1,
+  "recordsTotal": 1,
+  "recordsFiltered": 1,
+  "data": [
+    {
+      "id": "16",
+      "name": "Vallabh Kansagara",
+      "email": "9426209259",
+      "email_verified_at": null,
+      "created_at": "2019-04-06 14:09:07",
+      "updated_at": "2019-04-06 14:09:07",
+      "is_active": "1",
+      "is_verified": "1",
+      "is_agree": "1",
+      "mobile": "9426209259",
+      "action": "<a href=\"http:\/\/0.0.0.0:8090\/customer\">\n    <img style=\"\n    max-width: 30px;\n\" src=\"http:\/\/0.0.0.0:8090\/assets\/images\/open-eye.png\" alt=\"\">\n\n<\/a>\n",
+      "amount": "8976",
+      "DT_RowIndex": 1
+    }
+  ],
+  "input": {
+    "draw": "1",
+    "columns": [
+      {
+        "data": "DT_RowIndex",
+        "name": null,
+        "searchable": "false",
+        "orderable": "false",
+        "search": {
+          "value": null,
+          "regex": "false"
+        }
+      },
+      {
+        "data": "name",
+        "name": "name",
+        "searchable": "true",
+        "orderable": "true",
+        "search": {
+          "value": null,
+          "regex": "false"
+        }
+      },
+      {
+        "data": "action",
+        "name": "action",
+        "searchable": "true",
+        "orderable": "false",
+        "search": {
+          "value": null,
+          "regex": "false"
+        }
+      },
+      {
+        "data": "amount",
+        "name": "amount",
+        "searchable": "true",
+        "orderable": "true",
+        "search": {
+          "value": null,
+          "regex": "false"
+        }
+      }
+    ],
+    "order": [
+      {
+        "column": "0",
+        "dir": "asc"
+      }
+    ],
+    "start": "0",
+    "length": "5",
+    "search": {
+      "value": null,
+      "regex": "false"
+    }
+  }
+}
